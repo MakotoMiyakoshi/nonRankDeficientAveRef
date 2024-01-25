@@ -1,2 +1,2 @@
 # nonRankDeficientAveRef
-This plugin applies re-referencing to the average potential that is calculated including the initial reference. See [Kim et al. (2023) ICA's bug paper](https://www.frontiersin.org/articles/10.3389/frsip.2023.1064138/full).  
+This plugin applies re-referencing to the average potential that is calculated including the initial reference. For the theory, see [Kim et al. (2023) ICA's bug paper](https://www.frontiersin.org/articles/10.3389/frsip.2023.1064138/full) and [Makoto's preprocessing pipeline 'Why Why should we add zero-filled channel before average referencing?'](https://sccn.ucsd.edu/wiki/Makoto's_preprocessing_pipeline#Why_should_we_add_zero-filled_channel_before_average_referencing.3F_.2808.2F09.2F2020_Updated.3B_prayer_for_Nagasaki.29)
